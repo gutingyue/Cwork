@@ -1,0 +1,5 @@
+﻿  main.c
+d:\比特作业\c class6\数组操作(输出，输入，归零，逆序)\数组操作\main.c(15): warning C4013: “system”未定义；假设外部返回 int
+  arr_op.c
+  正在生成代码...
+  数组操作.vcxproj -> D:\比特作业\C class6\数组操作(输出，输入，归零，逆序)\Debug\数组操作.exe
