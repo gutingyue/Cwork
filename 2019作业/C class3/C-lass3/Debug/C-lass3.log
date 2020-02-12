@@ -1,0 +1,7 @@
+﻿  计算.c
+  数组A数组B交换内容.c
+c:\users\tine\documents\visual studio 2013\projects\c-lass3\c-lass3\数组a数组b交换内容.c(23): warning C4013: “swap”未定义；假设外部返回 int
+c:\users\tine\documents\visual studio 2013\projects\c-lass3\c-lass3\数组a数组b交换内容.c(36): warning C4013: “system”未定义；假设外部返回 int
+  正在生成代码...
+c:\users\tine\documents\visual studio 2013\projects\c-lass3\c-lass3\数组a数组b交换内容.c(45): warning C4716: “swap”: 必须返回一个值
+  C-lass3.vcxproj -> C:\Users\tine\Documents\Visual Studio 2013\Projects\C-lass3\Debug\C-lass3.exe
