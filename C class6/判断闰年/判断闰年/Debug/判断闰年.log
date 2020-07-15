@@ -1,4 +1,0 @@
-﻿  test.c
-d:\visual studio 2013\projects\c class6\判断闰年\判断闰年\test.c(30): warning C4013: “system”未定义；假设外部返回 int
-d:\visual studio 2013\projects\c class6\判断闰年\判断闰年\test.c(15): warning C4715: “Year”: 不是所有的控件路径都返回值
-  判断闰年.vcxproj -> D:\Visual Studio 2013\Projects\C class6\判断闰年\Debug\判断闰年.exe
